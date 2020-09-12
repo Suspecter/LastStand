@@ -46,6 +46,8 @@ arsARC = [] spawn
 	[_box, _arsenal] call ace_arsenal_fnc_initBox;
 };
 
+//testTTTTT
+
 arsARF = [] spawn 
 {
 	_box = ars_arf;
